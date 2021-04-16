@@ -1,0 +1,152 @@
+body,
+.carousel-inner>.carousel-item>img {
+    margin: 0 auto;
+    background-color: black;
+}
+
+.btn-outline-success {
+    color: #d0a427;
+    border-color: #d0a427;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #d0a427;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #d0a427;
+}
+
+.dropdown-menu {
+    background-color: #d0a427;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #d0a427;
+}
+
+
+/* h5 {
+    color: #d0a427;
+    border: black;
+}
+
+p {
+    color: #d0a427;
+    border: black
+} */
+
+.carousel-caption {
+    color: #d0a427;
+    font-size: 2rem;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.navbar-light .navbar-toggler {
+    color: #ffc1071a;
+    border-color: #d0a427;
+}
+
+#separador {
+    background-color: #d0a427;
+    border: 3px solid #d0a427;
+    height: 40px;
+    text-align: center;
+}
+
+#trabajos {
+    color: blanchedalmond;
+}
+
+.card-border {
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+.card-border {
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+.card-border:hover {
+    transform: scale(1.05);
+}
+
+#trabajos {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgb(75, 75, 75) 0%, rgb(40, 40, 40) 57%);
+    background-repeat: repeat-x;
+    background-size: 75%;
+    margin-top: -20px;
+}
+
+.card-text {
+    color: black;
+}
+
+footer {
+    background: #d0a427;
+    pad: 70px;
+}
+
+.algo {
+    padding-top: 35px;
+}
+
+
+/* html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #e74c3c !important;
+}
+
+.searchbar {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 60px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.search_input {
+    color: black;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color: transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover>.search_input {
+    padding: 0 10px;
+    width: 450px;
+    caret-color: red;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover>.search_icon {
+    background: white;
+    color: #e74c3c;
+}
+
+.search_icon {
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: black;
+    text-decoration: none;
+}  */
