@@ -1,7 +1,12 @@
+body {
+    background: #ffe259;
+    background: linear-gradient(to right, #d0a427, #FFDF85);
+}
+
 body,
 .carousel-inner>.carousel-item>img {
     margin: 0 auto;
-    background-color: black;
+    background-color: #d0a427;
 }
 
 .btn-outline-success {
@@ -49,8 +54,8 @@ p {
 }
 
 #separador {
-    background-color: #d0a427;
-    border: 3px solid #d0a427;
+    background-color: #212529;
+    border: 3px solid #212529;
     height: 40px;
     text-align: center;
 }
@@ -77,25 +82,67 @@ p {
     transform: scale(1.05);
 }
 
-#trabajos {
+
+/* #trabajos {
     background: rgb(255, 255, 255);
-    background: linear-gradient(0deg, rgb(75, 75, 75) 0%, rgb(40, 40, 40) 57%);
+    background: linear-gradient(0deg, rgb(243, 222, 31) 0%, rgb(208, 164, 39) 57%);
     background-repeat: repeat-x;
     background-size: 75%;
     margin-top: -20px;
-}
+} */
 
 .card-text {
     color: black;
 }
 
-footer {
-    background: #d0a427;
+
+/* footer {
+    background: #212529;
     pad: 70px;
+} */
+
+.textoFooter {
+    color: white;
+    padding-top: 30px;
 }
 
-.algo {
-    padding-top: 35px;
+.imagenLogoFooter {
+    padding-top: 15px;
+}
+
+#carouselExampleCaptions {
+    background: #212529;
+    opacity: 0.75;
+}
+
+.bg {
+    background-image: url(imagenes/Fondologin.jpg);
+    background-position: center center;
+}
+
+.text {
+    color: white;
+}
+
+.form-control {
+    border: 1px solid #d0a427;
+}
+
+.form-check-input {
+    border: 1px solid #d0a427;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(imagenes/burgermenu3.png);
+}
+
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 75px;
+    width: 100%;
+    background: #212529;
 }
 
 
