@@ -1,0 +1,22 @@
+body {
+    width:  auto;
+    height: auto;
+    margin: auto;
+}
+
+.titulos {
+    text-align: center;
+}
+
+.descripcion {
+    text-align-last: center;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    background-color:whitesmoke;
+    
+}
